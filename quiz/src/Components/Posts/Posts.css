@@ -1,0 +1,39 @@
+
+.posts-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.posts-footer{
+    height: 160px;
+    color: white;
+    background-color: black;
+}
+.posts-header{
+    height: 50px;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+.home{
+    position: absolute;
+    left: 0%;
+}
+.phone{
+    position: absolute;
+    left: 0%;
+ 
+}
+.email{
+    position: absolute;
+    left: 0%;
+    margin-top: 5%;
+}
+.address{
+    position: absolute;
+    right: 4%;
+}
+.Button{
+   margin-top: 2%;
+}
+

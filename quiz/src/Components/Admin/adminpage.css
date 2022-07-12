@@ -1,0 +1,37 @@
+.Card{
+    background-image: url(/src/image/bg1.png);
+} 
+.boxone{
+    width: 530px;
+    justify-content: center;
+    height: 30%;
+    background: #ffff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    margin: 60px;
+    margin-left: 20%;
+    background-image: url(https://st.depositphotos.com/1007989/1941/i/950/depositphotos_19415091-stock-photo-bubbles-rainbow-background.jpg);
+}
+.textfield{
+    width: 530px;
+    justify-content: center;
+    height: auto;
+    background: #ffff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    margin: 60px;
+    margin-left: 20%;
+ 
+}
+
+.image{
+    height: 10%;
+}
